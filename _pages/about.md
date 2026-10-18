@@ -21,24 +21,23 @@ redirect_from:
 每周四v我五十，领取海量token
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2022.02* :值得注意的是，在本次马桶摔坏的意外中有三名人员不幸身亡。他们分别是维亚切斯拉夫·巴兰尼科夫（Вячеслав Баранников），安东·尤丁采夫（Антон Юдинцев），尼基塔·布亚诺夫（Никита Буянов）
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+《老师，你的术式好碍事啊》《全都是借口》《事先说明一下，你才是挑战者》《我的学生都在看着呢，再让我耍会帅吧》 《已经，无所谓了......》
+!()[https://picgocloud.com/m/b32f3491-f187-491f-821b-88035c7f8200.jpg]
+<div align="center">
+  <iframe 
+    src="//player.bilibili.com/player.html?bvid=BV1oG411Q7XW&page=1" 
+    width="800" 
+    height="450" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true">
+  </iframe>
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *The End of Friendship Cup of Fuzhou University,the Highest Personal Score.  
